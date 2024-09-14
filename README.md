@@ -2,8 +2,8 @@
 
 Presentation video link: https://youtu.be/kAzmYtwpmMc
 
-# User Behavior Clustering in Ele.me Online Food Delivery
-# Project Overview
+## User Behavior Clustering in Ele.me Online Food Delivery
+### Project Overview
 This project analyzes user profiles in the online food delivery service Ele.me, with a focus on their recommendation system. By clustering 1.8 million user behavior records, the project visualizes key insights through interactive visualizations such as bubble charts, heatmaps, and parallel set graphs.
 # Introduction
 This project shifts the focus from traditional Click-Through Rate (CTR) analysis to the online food delivery industry, analyzing user behavior and traits within Ele.me’s recommendation system. By employing the K-Means algorithm, users are clustered based on traits like gender, VIP status, spending levels, and purchase frequency.
